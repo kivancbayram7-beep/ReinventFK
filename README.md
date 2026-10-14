@@ -92,3 +92,10 @@ pyinstaller --noconsole --onefile `
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+<img width="582" height="500" alt="Snap2" src="https://github.com/user-attachments/assets/fb0098e8-531c-46ba-8fa8-abb24b101a68" />
+<img width="582" height="500" alt="Snap7" src="https://github.com/user-attachments/assets/b4d959f2-f6f7-495b-a5be-3963bb48c3cf" />
+<img width="582" height="500" alt="Snap6" src="https://github.com/user-attachments/assets/7263f104-8569-4f11-8fd2-6f028d369eab" />
+<img width="582" height="500" alt="Snap4" src="https://github.com/user-attachments/assets/013e3c45-55df-4dda-ad8a-c1bdf1dc6b71" />
+<img width="582" height="500" alt="Snap3" src="https://github.com/user-attachments/assets/2cb027c3-008e-4583-8200-ade4b57b234f" />
+
